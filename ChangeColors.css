@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(61, 58, 58);
+}
+
+button {
+    border: 0.2rem solid #1d221e;
+    font-size: large;
+    transform: translate(600px, 345px);
+    border-radius: 18em;
+    background-color: #370617;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+button:hover {
+    border-color: #354f52;
+    color: #89fc00;
+    box-shadow: 0 0.5em 0.5em -0.3em #354f52;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+header {
+    font-size: 1em;
+    font-family: 'Cormorant Garamond', serif;
+
+}
+
+body {
+    background-color: #343a40;
+}
